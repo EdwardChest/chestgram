@@ -1,0 +1,5 @@
+assets/*
+config.json
+__pycache__*
+libs/__pycache__
+log.txt
